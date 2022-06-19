@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-redux-shopcats/static/css/main.56031b24.css",
+    "main.js": "/react-redux-shopcats/static/js/main.70bf454b.js",
+    "static/media/киска.png": "/react-redux-shopcats/static/media/киска.5a59a8dfb85bee52c6a8.png",
+    "static/media/Pattern.png": "/react-redux-shopcats/static/media/Pattern.7858f3d0f9b100e9018a.png",
+    "index.html": "/react-redux-shopcats/index.html",
+    "main.56031b24.css.map": "/react-redux-shopcats/static/css/main.56031b24.css.map",
+    "main.70bf454b.js.map": "/react-redux-shopcats/static/js/main.70bf454b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56031b24.css",
+    "static/js/main.70bf454b.js"
+  ]
+}
